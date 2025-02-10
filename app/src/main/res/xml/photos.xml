@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+    <photo filename="image1" title="Instagram Icon"/>
+    <photo filename="image2" title="PNG Icon"/>
+    <photo filename="image3" title="Apple Icon"/>
+    <photo filename="image4" title="Meta Icon"/>
+    <photo filename="image5" title="Mario Picture"/>
+    <photo filename="image6" title="Star Picture"/>
+</photos>
